@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\serge\\Desktop\\AndroidApps\\PhotoApp\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\card_flip_left_in.xml",
+        "source": "C:\\Users\\serge\\.android\\build-cache\\71dcd05854523c6ce409ef1f43618c3d55e97670\\output\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\serge\\Desktop\\AndroidApps\\PhotoApp\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\card_flip_left_out.xml",
+        "source": "C:\\Users\\serge\\.android\\build-cache\\71dcd05854523c6ce409ef1f43618c3d55e97670\\output\\res\\animator\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\serge\\Desktop\\AndroidApps\\PhotoApp\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\card_flip_right_out.xml",
+        "source": "C:\\Users\\serge\\.android\\build-cache\\71dcd05854523c6ce409ef1f43618c3d55e97670\\output\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\serge\\Desktop\\AndroidApps\\PhotoApp\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\card_flip_right_in.xml",
+        "source": "C:\\Users\\serge\\.android\\build-cache\\71dcd05854523c6ce409ef1f43618c3d55e97670\\output\\res\\animator\\card_flip_right_in.xml"
+    }
+]
